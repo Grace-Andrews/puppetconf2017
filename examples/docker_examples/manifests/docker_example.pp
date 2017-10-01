@@ -1,3 +1,5 @@
+class docker_example
+
 include 'docker'
 
 docker::image { 'ubuntu':
